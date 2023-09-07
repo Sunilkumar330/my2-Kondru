@@ -29,3 +29,10 @@
 |2.volleyball     |stamina        |2hrs       |
 |3.swimming       |good health    |1hrs       |
 |4.basketball     |good stamina   |2hrs       |
+
+----
+# Pithy quotes.
+
+1. "Whether you think you can or think you can’t, you’re right." -  *Henry Ford.*
+
+2. "Passion is the genesis of genius." - *Galileo Galilei*
