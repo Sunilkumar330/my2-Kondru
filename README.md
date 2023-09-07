@@ -55,5 +55,5 @@ My best idea so far is to use an array and make one shape for each array item us
 </ul>
 
 ```
-[click here](https://css-tricks.com/snippets/html/standard-list-navigation/)
+[click here for css](https://css-tricks.com/snippets/html/standard-list-navigation/)
 
