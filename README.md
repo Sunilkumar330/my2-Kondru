@@ -6,7 +6,7 @@
 
  ----
  # My Favourite vacation spot
-1. **Relax on the Beach**: Spending a day lounging on the soft sandy shores, listening to the soothing waves, and soaking up the sun is my top choice.
+1.**Relax on the Beach**: Spending a day lounging on the soft sandy shores, listening to the soothing waves, and soaking up the sun is my top choice.
 
 2.**Explore Local Cuisine**: Trying out the local dishes and flavors is a must. From street food to fine dining, indulging in culinary adventures is a close second.
 
