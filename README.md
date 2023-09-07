@@ -20,3 +20,12 @@
 
 [know more about me](MyStats.md)
 
+----
+# Sports that I recommend.
+
+|Name of the sport|Why I Recommend|Total hours|
+|-----------------|---------------|-----------|
+|1.cricket        |good health    |3hrs       |
+|2.volleyball     |stamina        |2hrs       |
+|3.swimming       |good health    |1hrs       |
+|4.basketball     |good stamina   |2hrs       |
