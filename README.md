@@ -41,6 +41,7 @@
 # Code fencing
 
 **How do I create shapes in js canvas using array items?**
+
 My best idea so far is to use an array and make one shape for each array item using a method that I learned from Python
 
 [click on the link](https://stackoverflow.com/questions/77055625/how-do-i-create-shapes-in-js-canvas-using-array-items)
