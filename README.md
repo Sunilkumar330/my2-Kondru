@@ -36,3 +36,23 @@
 1. "Whether you think you can or think you can’t, you’re right." -  *Henry Ford.*
 
 2. "Passion is the genesis of genius." - *Galileo Galilei*
+
+----
+# Code fencing
+
+**How do I create shapes in js canvas using array items?**
+My best idea so far is to use an array and make one shape for each array item using a method that I learned from Python
+
+[click on the link](https://stackoverflow.com/questions/77055625/how-do-i-create-shapes-in-js-canvas-using-array-items)
+
+```
+<ul id="nav">
+   <li><a href="#">Home</a></li>
+   <li><a href="#">About</a></li>
+   <li><a href="#">Clients</a></li>
+   <li><a href="#">Contact Us</a></li>
+</ul>
+
+```
+[click here](https://css-tricks.com/snippets/html/standard-list-navigation/)
+
