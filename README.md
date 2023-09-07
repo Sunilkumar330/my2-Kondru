@@ -18,3 +18,5 @@
 - chicken biryani
 - chicken tikka
 
+[know more about me](MyStats.md)
+
